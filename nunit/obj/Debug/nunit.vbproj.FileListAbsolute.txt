@@ -1,0 +1,11 @@
+C:\Users\Hareendra\Documents\Visual Studio 2008\Projects\nunit\nunit\bin\Debug\nunit.dll
+C:\Users\Hareendra\Documents\Visual Studio 2008\Projects\nunit\nunit\bin\Debug\nunit.pdb
+C:\Users\Hareendra\Documents\Visual Studio 2008\Projects\nunit\nunit\bin\Debug\nunit.xml
+C:\Users\Hareendra\Documents\Visual Studio 2008\Projects\nunit\nunit\bin\Debug\nunit.framework.dll
+C:\Users\Hareendra\Documents\Visual Studio 2008\Projects\nunit\nunit\bin\Debug\nunit.framework.xml
+C:\Users\Hareendra\Documents\Visual Studio 2008\Projects\nunit\nunit\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hareendra\Documents\Visual Studio 2008\Projects\nunit\nunit\obj\Debug\ClassLibrary1.Resources.resources
+C:\Users\Hareendra\Documents\Visual Studio 2008\Projects\nunit\nunit\obj\Debug\nunit.vbproj.GenerateResource.Cache
+C:\Users\Hareendra\Documents\Visual Studio 2008\Projects\nunit\nunit\obj\Debug\nunit.dll
+C:\Users\Hareendra\Documents\Visual Studio 2008\Projects\nunit\nunit\obj\Debug\nunit.xml
+C:\Users\Hareendra\Documents\Visual Studio 2008\Projects\nunit\nunit\obj\Debug\nunit.pdb
